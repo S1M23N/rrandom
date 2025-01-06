@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: "_site"
+  
 website:
   title: "rrandom"
   navbar:
@@ -17,3 +18,4 @@ format:
 
 editor: visual
 
+output-dir: "_site"
